@@ -1,3 +1,4 @@
-# d1nker.github.io
-C.V
-# Initial Commit
+👋 Hey ! I'm a developer @Creads - Paris. 
+
+~ Work In Progress ~
+
